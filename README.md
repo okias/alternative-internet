@@ -221,8 +221,6 @@ There is no management stuff for checking the content. Users can decide which to
 
 * [git-dit](https://github.com/neithernut/git-dit) git-dit - the distributed issue tracker for git.
 
-* [GitTorrent](http://gittorrent.org/) is a peer-to-peer network of Git repositories being shared over BitTorrent.
-
 * [Grimwire](http://blog.grimwire.com/#2013-04-04-grimwire.md) is a browser OS which uses Web Workers for process isolation, and WebRTC for peer-to-peer communication.
 
 * [Guifi](http://guifi.net/) is a european (especially from Catalonia, Spain) large network with over 22000 active nodes. Uses wifi in both infrastructure and mesh mode. Over 25km of fiber as well so far.
